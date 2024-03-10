@@ -13,7 +13,7 @@
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>3840</width>
-  <height>2160</height>
-  <data>images\background2.png</data>
+  <width>16</width>
+  <height>16</height>
+  <data>images\spikes.png</data>
 </background>
